@@ -43,6 +43,12 @@ body{
     padding: 4px;
     
 }
+#header .info div {
+    color: #62b540;
+    background-color: #dde69f;
+    border-radius: 8px;
+    margin-top: 5px;
+}
 /* Content */
 #content .contact{
     margin-top: 25px;
@@ -77,6 +83,6 @@ body{
 }
 #footer p{
     font-style: italic;
-    color: rgb(221, 141, 37);
+    color: #62b540;
     font-size: 20px;
 }
