@@ -20,8 +20,7 @@ a{
 
 body{
     text-align: center;
-    background-image: url("../img/background.gif");
-    background-size: 100%;
+    background-image: url("../img/background.jpg");
 }
 /* Header */
 #header .avata img{
